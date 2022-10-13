@@ -12,7 +12,7 @@ ANS-there are different applications some are as below:-
     educational 
     word processors etc.
 
-What is programming
+What is programming?
 ANS- Programming is writing code (a set of instructions) to be interpreted and executed by a computer or 
 another electronic device. These instructions can create programs, and tell applications how to operate
 or function. People who program are referred to as programmers and write their code using a programming language.
